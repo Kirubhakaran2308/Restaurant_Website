@@ -5,7 +5,9 @@
    --yellow:#FFC54D;
    --white:black;
 }
-
+*{
+    scroll-behavior: smooth;
+}
 body,h2{
    margin:0;
    /* font-family: Arial, Helvetica, sans-serif; */
